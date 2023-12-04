@@ -1,0 +1,20 @@
+.head{
+    font-size: 30px;
+    text-align: center;
+    font-family:serif;
+    color: aliceblue;
+}
+.Content{
+    font-size: 22.5px;
+}
+body{
+    background-image: url(ddf8921f750e746e3399714a062e9ca8.png);
+    font-weight: bold;
+    color: aliceblue;
+}
+input{
+    border-radius:  20px; 
+}
+textarea{
+    border-radius:  20px;
+}
